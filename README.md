@@ -3,6 +3,19 @@
 ![Main Image](https://github.com/Zhiweikau/Laptop_Price_Analysis-Python-Tableau/blob/main/Report%20Images%20and%20Icon/Main%20Image.jpg)
 
 ## Table of Contents
+- [Project Overview](#project-overview)
+- [Objectives](#objectives) 
+-	[Data Source](#data-source) 
+-	[Terminologies Used in Data](#terminologies-used-in-data) 
+-	[Methodology](#methodology) 
+-	[Tools and Technologies Used](#tools-and-technologies-used) 
+-	[Visualization Requirement for Laptop price Analysis](#visualization-requirement-for-laptop-price-analysis)
+-	[Data Visualization Interfaces](#data-visualization-interfaces)
+-	[Key Insights and Findings](#key-insights-and-findings)
+-	[Recommendations](#recommendations)
+-	[Getting Started](#getting-started)
+-	[Conclusion](#conclusion)
+-	[MIT License](#mit-license)
 
 
 ### Project Overview
@@ -105,32 +118,10 @@ These visualizations offer insights into pricing trends, brand positioning, and 
 
 ### Data Visualization Interfaces
 Dive deeper into our laptop price analysis project with our interactive dashboards! These visualizations provide an intuitive way to explore data, spotlight key metrics, and uncover actionable insights, making the analysis of laptop prices both engaging and insightful.
-<table>
-  <tr>
-    <th>Tool</th>
-    <th>Power BI</th>
-  </tr>
-  <tr>
-    <td><strong>Overview</strong></td>
-    <td>The dashboards showcase an e-commerce sales analysis report for Madhav Ecommerce, covering the period for the entire year of 2018. These interactive dashboards are designed to provide a comprehensive view of sales performance, trends, and customer behavior insights. Users can filter data by state, category, and date range to focus on specific segments and time periods.</td>
-  </tr>
-  <tr>
-    <td><strong>Features</strong></td>
-    <td>
-      <ul>
-        <li><strong>Summary Metrics:</strong> Displays total revenue, profit, quantity sold, and average metrics.</li>
-        <li><strong>Trend Analysis:</strong> Visualizes daily and monthly sales trends.</li>
-        <li><strong>Category & Sub-Category Analysis:</strong> Shows revenue and profit distribution by product categories and highlights top/bottom sub-categories.</li>
-        <li><strong>Payment Mode Analysis:</strong> Illustrates the distribution of sales across different payment methods.</li>
-        <li><strong>Customer Insights:</strong> Provides analysis on customer behavior, such as payment preferences.</li>
-        <li><strong>Interactive Filters:</strong> Users can filter data by state, category, and date range.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
+| Tool      | Tableau                                                                                                                                                                                                                              |
+|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Overview  | The dashboards present a detailed analysis of laptop prices across various brands, specifications, and feature attributes. This interactive visualization offers a comprehensive breakdown of total sales amount, quantity sold, and average price per unit, making it easy to understand how different features impact laptop pricing and sales. Users can explore data based on factors such as type, brand, RAM, screen size, and more, enabling deeper insights into pricing trends and market preferences. |
+| Features  | - **KPIs**: Key metrics like Total Amount, Total Quantity, and Average Price per Unit.  <br>- **Type Analysis**: Sales breakdown by laptop type (Notebook, Gaming, etc.). <br>- **GPU & CPU Analysis**: Distribution of sales by GPU (Intel, Nvidia, AMD) and CPU brands. <br>- **OS Analysis**: Sales and quantity by operating system (Windows, Mac, Linux). <br>- **Brand & RAM Analysis**: Price and quantity by brand and RAM size. <br>- **Screen Size**: Sales insights by screen size (inches). <br>- **Touchscreen & IPS Display**: Impact of touchscreen and IPS on sales and quantity.  |
 
 ### Laptop Price Distribution by Features
 ![Dashboard Price Distribution by Features](https://github.com/Zhiweikau/Laptop_Price_Data_Analysis-Python-Tableau/blob/main/Tableau/Dashboard%20-%20Laptop%20Price%20Distribution%20by%20Features.png)
