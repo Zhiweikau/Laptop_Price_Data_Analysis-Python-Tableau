@@ -19,14 +19,14 @@
 
 
 ### Project Overview
-This project involves analysis a laptop price dataset using Python and Tableau. The goal is to explore various factors that influence laptop pricing and identify trends, patterns, and key insights that can help consumers make informed purchasing decisions and help manufacturers optimize their pricing strategies.
+This project involves analysis a laptop price dataset using Python and Tableau. The goal is to explore various factors that influence laptop pricing and identify trends, patterns, and key insights that can help retailers make informed purchasing decisions and help manufacturers optimize their pricing strategies.
 
 ---
 
 ### Objectives
 -	To identify key factors and attributes that significantly influence laptop prices, including screen resolution (ScreenResolution), processor performance, and laptop type (e.g., Ultrabook, Notebook).
 -	To develop interactive visualizations that enable users to explore and compare laptop prices by different attributes, helping to identify trends and price variations across brands and specifications.
--	To provide insights and recommendations based on the visualized data to guide consumers and businesses in understanding the laptop market and making informed purchasing or marketing decisions.
+-	To provide insights and recommendations based on the visualized data to guide retailers and businesses in understanding the laptop market and making informed purchasing or marketing decisions.
 
 ---
 
